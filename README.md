@@ -10,3 +10,8 @@
 ## 2. Draggable Bottom Sheet
 ### Output  
 <img src="https://user-images.githubusercontent.com/115267083/194697328-6312a072-425e-40f5-a2da-9dda8284f5e0.gif" height="500">
+
+## 2. Custom Calendar 🗓
+### Output  
+<img src="https://github.com/SimpleKoder/tutorial_snippet/blob/bb5719233685019e9edb35be9fb0fb5a0518984d/thumbnail/custom_calendar_thum.png" height="500">
+
