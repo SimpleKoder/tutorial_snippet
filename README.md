@@ -15,3 +15,7 @@
 ### Output  
 <img src="https://github.com/SimpleKoder/tutorial_snippet/blob/bb5719233685019e9edb35be9fb0fb5a0518984d/thumbnail/custom_calendar_thum.png" height="500">
 
+## 3. Custom Loader
+### Output  
+<img src="https://github.com/SimpleKoder/tutorial_snippet/blob/b5065971a653c2e13cfe643a2acd678909e3d079/thumbnail/custom_loader_thumb.gif" height="500">
+
