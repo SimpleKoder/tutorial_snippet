@@ -21,5 +21,5 @@
 
 ## 4. Custom Animated Bottom Nav Bar
 ### Output  
-<img src="https://github.com/SimpleKoder/tutorial_snippet/blob/b5065971a653c2e13cfe643a2acd678909e3d079/thumbnail/custom_app_bar_thumb.png" height="500">
+<img src="https://github.com/SimpleKoder/tutorial_snippet/blob/main/thumbnail/custom_app_bar_thumb.png?raw=true" height="500">
 
